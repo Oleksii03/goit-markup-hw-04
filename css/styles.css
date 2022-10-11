@@ -303,7 +303,6 @@ body {
 
 .item-team>img {
   max-width: 100%;
-  display: block;
 }
 
 .item-team__content {
@@ -543,7 +542,6 @@ body {
 }
 
 .ourworks-card__item {
-  display: flex;
   flex-basis: calc((100% - 60px) / 3);
 }
 
